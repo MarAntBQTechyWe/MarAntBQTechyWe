@@ -1,6 +1,6 @@
 # 🏦 TechyWe | Marco Antonio Bustillos Quiroz  
 
-Welcome to my **TechyWe GitHub** profile! As a **Backend Developer**, I specialize in building robust fintech solutions that enhance banking services and financial applications. Here, you’ll find projects I’ve contributed to, focusing on **secure, scalable, and high-performance** banking systems.
+Welcome to my **TechyWe GitHub** profile! As a **Backend & Mobile Developer**, I specialize in building robust fintech solutions that enhance banking services and financial applications. Here, you’ll find projects I’ve contributed to, focusing on **secure, scalable, and high-performance** banking systems.
 
 ## 🚀 Projects I Have Worked On  
 
@@ -11,6 +11,7 @@ Welcome to my **TechyWe GitHub** profile! As a **Backend Developer**, I speciali
 ### 🏛️ Banco Hipotecario CMS 
 ### 📊 NIFF  
 ### 🧾 Factura Digital  
+### 🛒 Express Shopping
 
 ## 📫 Contact  
 [TechyWe](mailto:marco.bustillo@techy-we.com).  
